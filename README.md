@@ -6,7 +6,7 @@ This project was to gather data using Citi Bike data in New York City and seeing
 
 ## Results</br>
 
-[link to dashboard](https://public.tableau.com/views/CitiBikeChallenge_16486071650450/CheckoutTimeforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/CitiBikeChallenge_16486071650450/CitiBikeChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 The link contains seven slides and a story for the challenge with explanations of each slide in the story.
 
