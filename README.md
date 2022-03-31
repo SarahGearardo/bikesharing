@@ -8,6 +8,8 @@ This project was to gather data using Citi Bike data in New York City and seeing
 
 [link to dashboard](https://public.tableau.com/views/CitiBikeChallenge_16486071650450/CheckoutTimeforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+The link contains seven slides and a story for the challenge with explanations of each slide in the story.
+
 ## Summary and Additional Suggestions</br>
 
 In summary, customers typically rent bikes for short durations, most lasting no longer than thirty minutes and very few lasting over two hours. The userbase is mostly made up of men and they tend to use the bikes during the week during the morning and evening commute. From the data it looks like people use the bikes to get to work, get home and then they may go out throughout the day using the bikes to pick up coffee of lunch. People tend to rent bikes on the weekend as well, with most of the rending happening during midday, dropping off after 7pm.
